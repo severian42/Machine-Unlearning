@@ -1,4 +1,4 @@
-# Unlearning in Machine Learning 
+# Unlearning For Machines and AI
 A Specialized Exploration for Privacy and Security 
 
 <img src="an-image-of-an-ai-model-deleting-the-data-from-its.png" alt="Unlearning Graphic" width="400" height="400">
