@@ -16,21 +16,14 @@ A Specialized Exploration for Privacy and Security
 ## Introduction
 This repository is devoted to the specialized area of unlearning in machine learning. While machine learning models are traditionally designed to remember, the emerging field of unlearning explores how these models can forget. Here, we investigate algorithmic methods for unlearning, with an emphasis on privacy protection and defense against inference attacks.
 
+<a href="https://colab.research.google.com/drive/1ZitrQ92NQnvZVw0HykFSCv3VSaJ6q4pz?usp=sharing" target="_blank">Try out the Unlearning notebook here</a>
+
+
 ------------------
 
 ## Sibling Repository: Biomimicry in Machine Learning
 
-This repository is a sibling to our [Biomimicry in Machine Learning repository](https://github.com/YourUsername/Biomimicry-in-ML). While the Biomimicry repository focuses on general algorithmic innovations inspired by nature, this Unlearning repository narrows down on specialized aspects of machine learning—specifically unlearning, privacy protection, and defense against inference attacks.
-
-## Featured Notebooks
-
-### Immune System Unlearning Notebook
-Inspired by adaptive qualities of biological immune systems, this notebook aims to implement unlearning algorithms to remove specific data subsets from trained models while retaining crucial performance metrics. It also serves to protect data privacy and defend against inference attacks.  
-[Explore Immune System Unlearning Notebook](https://colab.research.google.com/drive/1prUh5qkYPTM1zTogIAMjODBWgik_Fe3N?usp=sharing)
-
-### Blackhole Unlearning Notebook
-This notebook employs the principles of gravitational dynamics in black holes to develop novel unlearning algorithms. The objective is to redefine the way machine learning models handle data retention and exclusion, especially focusing on privacy and security aspects.  
-[Explore Blackhole Unlearning Notebook](https://colab.research.google.com/drive/1prUh5qkYPTM1zTogIAMjODBWgik_Fe3N?usp=sharing)
+This repository is a sibling to our [Biomimicry in Machine Learning repository](https://github.com/severian42/Biomimicry-Machine-Learning). While the Biomimicry repository focuses on general algorithmic innovations inspired by nature, this Unlearning repository narrows down on specialized aspects of machine learning—specifically unlearning, privacy protection, and defense against inference attacks.
 
 --------------------
 
