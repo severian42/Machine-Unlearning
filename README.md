@@ -18,6 +18,8 @@ This repository is devoted to the specialized area of unlearning in machine lear
 
 <a href="https://colab.research.google.com/drive/1ZitrQ92NQnvZVw0HykFSCv3VSaJ6q4pz?usp=sharing" target="_blank">Try out the Unlearning notebook here</a>
 
+<img src="" alt="Results From Notebook" width="400" height="400">
+
 *DISCLAIMER:* These notebooks have been modified and adpated from this original source which was a Google Competition that never started. I ended up adapting the notebook so I could open source a working version of the algorithm for the community and we could keep exploring its potential. Here is the original notebook https://github.com/unlearning-challenge/starting-kit
 
 
