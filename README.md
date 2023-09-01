@@ -1,6 +1,22 @@
-# Unlearning in Machine Learning: A Specialized Exploration for Privacy and Security
+# Unlearning in Machine Learning 
+A Specialized Exploration for Privacy and Security 
 
-![Unlearning Graphic](./_unlearning_graphic.jpg)
+<img src="an-image-of-an-ai-model-deleting-the-data-from-its.png" alt="Unlearning Graphic" width="400" height="400">
+
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Scope and Objectives](#scope-and-objectives)
+3. [Unlearning Methods](#unlearning-methods)
+4. [Methodology](#methodology)
+5. [Findings and Metrics](#findings-and-metrics)
+6. [Next Steps](#next-steps)
+7. [Contact](#contact)
+
+## Introduction
+This repository is devoted to the specialized area of unlearning in machine learning. While machine learning models are traditionally designed to remember, the emerging field of unlearning explores how these models can forget. Here, we investigate algorithmic methods for unlearning, with an emphasis on privacy protection and defense against inference attacks.
+
+------------------
 
 ## Sibling Repository: Biomimicry in Machine Learning
 
@@ -16,17 +32,7 @@ Inspired by adaptive qualities of biological immune systems, this notebook aims 
 This notebook employs the principles of gravitational dynamics in black holes to develop novel unlearning algorithms. The objective is to redefine the way machine learning models handle data retention and exclusion, especially focusing on privacy and security aspects.  
 [Explore Blackhole Unlearning Notebook](https://colab.research.google.com/drive/1prUh5qkYPTM1zTogIAMjODBWgik_Fe3N?usp=sharing)
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Scope and Objectives](#scope-and-objectives)
-3. [Unlearning Methods](#unlearning-methods)
-4. [Methodology](#methodology)
-5. [Findings and Metrics](#findings-and-metrics)
-6. [Next Steps](#next-steps)
-7. [Contact](#contact)
-
-## Introduction
-This repository is devoted to the specialized area of unlearning in machine learning. While machine learning models are traditionally designed to remember, the emerging field of unlearning explores how these models can forget. Here, we investigate algorithmic methods for unlearning, with an emphasis on privacy protection and defense against inference attacks.
+--------------------
 
 ## Scope and Objectives
 The repository aims to:
